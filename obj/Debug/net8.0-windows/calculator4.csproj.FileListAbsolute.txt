@@ -1,0 +1,16 @@
+C:\Users\هاني\source\repos\calculator4\bin\Debug\net8.0-windows\calculator4.exe
+C:\Users\هاني\source\repos\calculator4\bin\Debug\net8.0-windows\calculator4.deps.json
+C:\Users\هاني\source\repos\calculator4\bin\Debug\net8.0-windows\calculator4.runtimeconfig.json
+C:\Users\هاني\source\repos\calculator4\bin\Debug\net8.0-windows\calculator4.dll
+C:\Users\هاني\source\repos\calculator4\bin\Debug\net8.0-windows\calculator4.pdb
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.Form1.resources
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.csproj.GenerateResource.cache
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.AssemblyInfoInputs.cache
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.AssemblyInfo.cs
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.csproj.CoreCompileInputs.cache
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.dll
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\refint\calculator4.dll
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.pdb
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\calculator4.genruntimeconfig.cache
+C:\Users\هاني\source\repos\calculator4\obj\Debug\net8.0-windows\ref\calculator4.dll
